@@ -1,5 +1,5 @@
 # Asteroids_Interceptor
-Jogo feito em MonoGame, Framework baseado em .NET XNA da Microsoft, e C# como teste e estudo para desenvolvimento de trabalhos futuros no grupo GT Smart Games da Ufal - Campus A.C. Simões.
+Jogo feito em MonoGame, Framework baseado em .NET XNA da Microsoft, e C# como teste e estudo (sem fins lucrativos e com obejetivação apenas educacional) para desenvolvimento de trabalhos futuros no grupo GT Smart Games da Ufal - Campus A.C. Simões.
 
 O jogo consiste de uma nave que ataca asteróides num Cinturão de Asteróids para impedir que os mesmos caiam no planeta do piloto. Esta é a ideia base, mas foi pensado também em corpos alienígenas que ficariam em alguns asteróides para disparar projetéis em direção a nave do piloto, mas isso se trata apenas de uma espécie de "bônus" de desenvolvimento.
 
