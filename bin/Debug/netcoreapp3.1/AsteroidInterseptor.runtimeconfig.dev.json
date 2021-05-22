@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/flaera/.dotnet/store/|arch|/|tfm|",
+      "/home/flaera/.nuget/packages"
+    ]
+  }
+}
