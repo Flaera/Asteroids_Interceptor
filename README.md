@@ -5,4 +5,6 @@ O jogo consiste de uma nave que ataca asteróides num Cinturão de Asteróids pa
 
 O jogo não esta finalizado ainda: falta criar os asteróides, a lógica deles e administrar as colisões entre os mesmos e a nave controlado pelo jogador.
 
-Warning: o jogo ainda não esta compilado, é necessário instalar a MonoGame e tudo necessário para rodá-la para que a compilação do projeto possa ser feita e um executável possa existir. Em breve pretendo compilar este projeto.
+Para executar vá em "AsteroidInterseptor/bin/Debug/netcoreapp3.1/" e dê dois cliques no arquivo AsteroidInterseptor.exe. Inicialmente a build foi criada em Linux Xubuntu, assim pode ocorrer algum problema ao executá-la em Windows ou qualquer outro Sistema Operacional (SO).
+
+Programas utilizados: Gimp - manipulador de imagem, Xubuntu 20.04 (Linux), Visual Studio Code e MonoGame Framework.
